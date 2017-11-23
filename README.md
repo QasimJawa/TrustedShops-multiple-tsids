@@ -36,5 +36,5 @@ there are two way to do this task
    __ts.parentNode.insertBefore(_ts, __ts);
 })();`
 
-let's say you have [WPML] (https://wpml.org) on your site then you can easily get your language of website and if it's matched the required lanague or what ever the condition you set you can replace the _tsid 
+let's say you have  https://wpml.org on your site then you can easily get your language of website and if it's matched the required lanague or what ever the condition you set you can replace the _tsid 
 we shows that version of trusted shop
