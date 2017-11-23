@@ -8,9 +8,8 @@ Install the Trustbadge Reviews Toolkit in your WooCommerce store
 Customize your Trustbadge in the backend of WooCommerce
 As promised, it´s easy like that. Welcome on board!
 
-Now begings the fun part
+The fun part has begun now
 
-there are two way to do this task 
 
 1) Open plugin settings 
 2) Select Expert Mode
